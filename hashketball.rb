@@ -96,7 +96,7 @@ def game_hash
               blocks: 5,
               slam_dunks: 5 
             },
-             {  player_name: "Ben Gordon",
+            {  player_name: "Ben Gordon",
                 number: 8,
                 shoe: 15,
                 points: 33,
@@ -106,7 +106,7 @@ def game_hash
                 blocks: 1,
                 slam_dunks: 0 
               },
-              "Kemba Walker" => {
+              { player_name: "Kemba Walker",
                 number: 33,
                 shoe: 15,
                 points: 6,
