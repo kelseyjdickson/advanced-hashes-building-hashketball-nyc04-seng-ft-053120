@@ -7,7 +7,7 @@ def game_hash
     colors:  ["Black","White"],
     players: [
       
-        { player_name: "Alan Anderson"
+        { player_name: "Alan Anderson",
           number: 0,
           shoe: 16,
           points: 22,
@@ -66,7 +66,7 @@ def game_hash
         team_name: "Charlotte Hornets",
         colors: ["Turquoise", "Purple"],
         players: [
-          "Jeff Adrien" => {
+          { player_name: "Jeff Adrien",
             number: 4,
             shoe: 18,
             points: 10,
