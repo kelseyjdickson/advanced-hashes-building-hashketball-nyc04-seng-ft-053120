@@ -76,7 +76,7 @@ def game_hash
             blocks: 7,
             slam_dunks: 2
           },
-          "Bismack Biyombo" => {
+         {  player_name: "Bismack Biyombo",
             number: 0,
             shoe: 16,
             points: 12,
@@ -86,7 +86,7 @@ def game_hash
             blocks: 15,
             slam_dunks: 10 
           },
-            "DeSagna Diop" => {
+          {   player_name: "DeSagna Diop",
               number: 2,
               shoe: 14,
               points: 24,
@@ -96,7 +96,7 @@ def game_hash
               blocks: 5,
               slam_dunks: 5 
             },
-              "Ben Gordon" => {
+             {  player_name: "Ben Gordon",
                 number: 8,
                 shoe: 15,
                 points: 33,
